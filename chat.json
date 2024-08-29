@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Hello World'\", \"checked\": true}, {\"feature\": \"Include a tooltip on the button explaining its purpose\", \"checked\": false}, {\"feature\": \"Change button color on hover\", \"checked\": true}, {\"feature\": \"Add a loading animation when the button is clicked\", \"checked\": false}, {\"feature\": \"Make the button responsive for different screen sizes\", \"checked\": true}], \"input_token_count\": 247, \"output_token_count\": 100, \"time_taken\": \"0:00:01.659982\"}",
+        "message_id": "guest29082024054756",
+        "timestamp": "29082024054801",
+        "component_file_name": "simple_cta_component_1724910466",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style would you like for the 'Hello World' button (e.g., color, size)?\", \"option1\": \"Bright color with large text\", \"option2\": \"Subtle color with small text\"}, {\"question 2\": \"Where would you like the button to be positioned on the screen?\", \"option1\": \"Top center\", \"option2\": \"Bottom right\"}], \"input_token_count\": 293, \"output_token_count\": 94, \"time_taken\": \"0:00:01.633700\"}",
         "message_id": "guest29082024054756",
