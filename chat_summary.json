@@ -18,5 +18,11 @@
         "content": "Sure, I'm adding a button that says \"Hello World.\"",
         "timestamp": "29082024054758",
         "message_id": "guest29082024054756"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style would you like for the 'Hello World' button (e.g., color, size)?\", \"option1\": \"Bright color with large text\", \"option2\": \"Subtle color with small text\"}, {\"question 2\": \"Where would you like the button to be positioned on the screen?\", \"option1\": \"Top center\", \"option2\": \"Bottom right\"}], \"input_token_count\": 293, \"output_token_count\": 94, \"time_taken\": \"0:00:01.633700\"}",
+        "timestamp": "29082024054801",
+        "message_id": "guest29082024054756"
     }
 ]
